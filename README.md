@@ -1,2 +1,1 @@
-# OOP
-README FILE CRUCERESCU VLADISLAV LAB0
+Check out the branches for lab 0.
