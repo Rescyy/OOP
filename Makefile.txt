@@ -1,0 +1,7 @@
+output: hellow.o
+        gcc hellow.o -o output
+
+hellow.o: hellow.c
+          gcc -c hellow.c
+
+clean: rm *.o output
