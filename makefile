@@ -1,4 +1,3 @@
-
 default:
 	gcc hellow.c
 	clear
